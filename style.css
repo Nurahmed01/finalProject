@@ -231,7 +231,6 @@ h1{
     font-weight: 600;
     font-size: 48px;
     color: #f5f5f5;
-    text-align: center;
 }
 #textheader3{
     font-family: var(--third-family);
@@ -239,5 +238,16 @@ h1{
     font-size: 64px;
     text-align: center;
     color: #111;
+    margin-top: 130px;
+}
+#inblock{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+#img2{
+    border-radius: 8px;
+    width: 360px;
+    height: 356px;
     margin-top: 130px;
 }
